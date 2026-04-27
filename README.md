@@ -86,6 +86,7 @@ Analyze Swiggy's sales data to:
 
 * `Swiggy_Dashboard.xlsx` → Main Excel Dashboard
 * `README.md` → Project Documentation
+* `Output` → Excel Dashboard Photo
 
 ---
 
